@@ -2,6 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
+firebase-admin-sdk.json
 
 # C extensions
 *.so
