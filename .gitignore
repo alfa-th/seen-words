@@ -1,8 +1,10 @@
+# Custom
+firebase-admin-sdk.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
-firebase-admin-sdk.json
 
 # C extensions
 *.so
